@@ -13,4 +13,12 @@ This analysis has the purpose of using data to help me make my arguments solid.
 - Twitter API
 
 
+### Steps:
 
+Project planning: 
+
+Data extration:
+
+Data cleaning:
+
+Presentation: 
